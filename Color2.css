@@ -1,0 +1,49 @@
+body{
+    
+    font-family:arial, helvetica, sans-serif;
+    background-color:rgb(255,155,0);
+}
+    
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+    color: white;
+}
+header{
+    background: rgb(255, 0, 0);
+    color:white;
+    border-bottom:yellow 3px solid;
+    min-height:120px;
+    
+}
+header h1{
+    float:left;
+}
+nav{
+    float:right;
+    margin-top:35px;
+}
+header li{
+    display:inline;
+   
+    font-size:20px;
+}
+header a{
+    text-decoration:none;
+    color:yellow;
+    text-transform:uppercase;
+}
+footer{
+    background: rgb(255, 0, 0);
+    color:white;
+}
+#showcase{
+    background:url(https://www.gimmesomeoven.com/wp-content/uploads/2014/03/Fried-Rice-7.jpg) no-repeat;
+}
+
+#showcase p{
+    width:40%;
+    margin:auto;
+}
+    
